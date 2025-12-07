@@ -16,6 +16,12 @@
 - Created Redux Store with userSlice
 - Implemented signout
 - Update Profile 
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to the constants files
+- Register TMDB API and create an app & get access token
+- Get data from TMDB now playing movies list API
+- 
+
 
 # Features 
 - Login/ Sign Up
